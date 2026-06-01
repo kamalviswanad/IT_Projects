@@ -1,6 +1,6 @@
 # IT_Projects
 
-Hi, I’m Kamal Gajavalli. I am currently CompTIA Tech+, A+, Network+ certified and also planning to get certified in CompTIA Security+ in Spring 2026. I am currently learning Microsoft 365 tools. I also have a home lab (Virtual machienes), and I am building a few projects to improve my tech skills. This repo is dedicated to my personal projects. 
+Hi, I’m Kamal Gajavalli. I am currently certified in CompTIA Tech+, A+, Network+, Security+ and AWS CCP. I am also familiar with Microsoft 365, Powershell,Python, SQL, and Linux. I also have a home lab with various Virtual machienes and Rapberry PI and currently engineering various projects. This repo is dedicated to my personal projects. 
 
 
 📫 My E-mail: gajavallikamal@gmail.com
